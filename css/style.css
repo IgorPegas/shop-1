@@ -1,0 +1,45 @@
+
+@import url("header.css");
+@import url("main.css");
+@import url("footer.css");
+@import url("nav.css");
+@import url("page.css");
+@import url("modal.css");
+@import url("adaptation.css");
+@import url("burger.css");
+
+*, *:before, *:after{
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+}
+.footer{
+    margin-top: auto;
+}
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-image: url(../images/BG-1.jpg);
+    background-size: contain;
+    background-repeat: round;
+}
+
+a{
+    text-decoration: none;
+}
+.page{
+    max-width: 1200px;
+    margin: auto;
+    display: flex; 
+    flex-direction: column;
+    min-height: 100vh;
+}
+
