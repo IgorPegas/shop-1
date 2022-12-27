@@ -150,8 +150,6 @@ h4{
     height: 50px;
 }
 .sale__cart img:hover{
-    border: 2px solid #918f8f;
-    border-radius: 5px;
     padding: 1px;
     box-shadow: 0 0 5px#918f8f;
 }
