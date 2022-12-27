@@ -1,0 +1,50 @@
+
+#burger, [for=burger]{
+    display: none;
+}
+@media screen and (max-width: 480px) {
+    
+    .nav{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.575);
+}
+    [for=burger]{
+        display: block;
+        width: 30px;
+        text-align: center;
+    }
+    [for=burger]::before{
+        content: '☰';
+    }
+    .menu li{
+        display: block;
+    }
+    .nav a{
+        color: #000;
+        font-size: 16px;
+    }
+    .sale__cart img{
+        margin-top: 10px;
+    }
+    .menu{
+        display: none;
+        user-select: none;
+    }
+    #burger:checked + label + .menu{
+        display: block;
+        animation: show .5s ease;
+    }
+    #burger:checked +[for=burger]::before{
+        content: '⮾';
+    }
+}
+
+@keyframes show {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
