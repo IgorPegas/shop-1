@@ -1,0 +1,1084 @@
+
+@media screen and (max-width: 1200px){
+    .page{
+        max-width: 1000px;
+    }
+    /*header----------------------------------------*/
+    .logo img{
+        max-width: 150px;
+        max-height: 150px;
+    }
+    h1{
+        font-size: 75px;
+        margin: -40px 0 0 0;
+    }
+    h2{
+        margin: -40px 7px 30px 0;
+        font-size: 12px;
+    }
+    .head-box{
+        padding: 0 10px;
+    }
+    .clik a{
+        font-size: 18px;
+    }
+    /*nav-------------------------------------------*/
+    .menu li{
+        margin: 0 10px;
+    }
+    /*main-------------------------------------------*/
+    .gitara img{
+        max-width: 280px;
+    }
+    section{
+        max-width: 900px;
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 800px;
+    }
+    .picture{
+        max-width: 280px;
+        max-height: 280px;
+    }
+    .description{
+        font-size: 16px;
+    }
+    .more{
+        width: 180px;
+        height: 50px;
+    }
+    .more a{
+        padding: 13px 33px;
+    }
+    .more-1{
+        margin-top: 45px;
+    }
+    .more-2{
+        margin-top: 10px;
+    }
+    .more-3{
+        margin-top: 40px;
+    }
+    .more-4{
+        margin-top: 60px;
+    }
+    .more-5{
+        margin-top: 40px;
+    }
+    /*footer--------------------------------------------*/
+    .contakt p{
+        font-size: 18px;
+    }
+    .end p{
+        font-size: 16px;
+        padding: 0 10px;
+    }
+    .online{
+        width: 130px;
+        height: 40px;
+    }
+    .online img{
+        width: 50px;
+        margin-top: -6px;
+    }
+
+    /*page------------------------------------------*/
+    .BG{
+        width: 1000px;
+    }
+    .BG-page1{
+        min-height: 690px;
+    }
+    .BG-page2{
+        min-height: 810px;
+    }
+    .BG-page3{
+        min-height: 810px;
+    }
+    .BG-page4{
+        min-height: 815px;
+    }
+    .BG-page5{
+        min-height: 720px;
+    }
+
+    .sale__wrap{
+        width: 1000px;
+        height: 600px;
+    }.full-description{
+        font-size: 18px;
+    }
+    .sale__save p{
+        font-size: 15px;
+    }
+    .sale__text{
+        font-size: 20px;
+    }
+    .sale__group img{
+        width: 130px;
+        height: 90px;
+    }
+
+    /*modal-------------------------------------------*/
+    .content {
+        max-width: 600px;
+    }
+    .modal-header img{
+        width: 91%;
+    }
+}
+
+
+@media screen and (max-width: 1024px){
+    .page{
+        max-width: 900px;
+    }
+     /*header-----------------------------------------*/
+     .logo img{
+        max-width: 130px;
+        max-height: 130px;
+    }
+    h1{
+        font-size: 65px;
+        margin: -40px 0 0 0;
+    }
+    h2{
+        margin: -40px 7px 30px 0;
+        font-size: 10px;
+    }
+    
+    .clik a{
+        font-size: 16px;
+    }
+    /*nav--------------------------------------------*/
+    .nav{
+        margin-top: -20px;
+    }
+    .menu li{
+        margin: 0 5px;
+    }
+    .menu a{
+        font-size: 18px;
+    }
+    .sale__cart img {
+        margin-left: 30px;
+        width: 40px;
+        height: 40px;
+        }
+    /*main-------------------------------------------*/
+    .gitara img{
+        max-width: 250px;
+        margin: 50px 0 0 -50px;
+    }
+    section{
+        max-width: 800px;
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 700px;
+    }
+    .picture{
+        max-width: 250px;
+        max-height: 250px;
+    }
+    h3{
+        margin: 5px 0
+    }
+    .description{
+        font-size: 16px;
+        margin: 0;
+    }
+    .more{
+        width: 180px;
+        height: 40px;
+    }
+    .more a{
+        padding: 9px 33px;
+    }
+    .more-1{
+        margin-top: 35px;
+    }
+    .more-2{
+        margin-top: 10px;
+    }
+    .more-3{
+        margin-top: 30px;
+    }
+    .more-6, .more-7{
+        margin-top: 10px;
+    }
+    /*footer-------------------------------------------*/
+   
+    .online{
+        width: 120px;
+        height: 35px;
+    }
+    .online img{
+        width: 40px;
+        margin-top: -4px;
+    }
+
+    /*page------------------------------------------*/
+    .BG{
+        width: 900px;
+    }
+    .BG-page1{
+        min-height: 640px;
+    }
+    .BG-page2{
+        min-height: 810px;
+    }
+    .BG-page3{
+        min-height: 750px;
+    }
+    .BG-page4{
+        min-height: 745px;
+    }
+    .BG-page5{
+        min-height: 665px;
+    }
+    .sale__wrap{
+        width: 900px;
+    }
+    .title{
+        font-size: 23px;
+    }
+    .available-1, .available-2{
+        font-size: 20px;
+    }
+    .full-description{
+        font-size: 16px;
+    }
+    .sale__bottom{
+        width: 900px;
+    }
+    .sale__save p{
+        font-size: 14px;
+    }
+    .sale__text{
+        font-size: 18px;
+    }
+    .sale__group img{
+        width: 125px;
+        height: 85px;
+    }
+
+    /*modal-------------------------------------------*/
+    .content {
+        max-width: 550px;
+    }
+    .modal-header img{
+        width: 90%;
+    }
+}
+
+
+@media screen and (max-width: 960px){
+    .page{
+        max-width: 850px;
+    }
+     /*header--------------------------------------------*/
+     .logo img{
+        max-width: 110px;
+        max-height: 110px;
+    }
+    h1{
+        font-size: 50px;
+        margin: -40px 0 0 0;
+    }
+    h2{
+        margin: -40px 5px 30px 0;
+        font-size: 8px;
+    }
+    
+    .clik a{
+        font-size: 14px;
+    }
+    /*nav--------------------------------------------------*/
+    
+    .menu li{
+        margin: 0 5px;
+    }
+    .menu a{
+        font-size: 16px;
+    }
+    .sale__cart img {
+    margin-left: 20px;
+    }
+    /*main-------------------------------------------*/
+    .gitara img{
+        max-width: 220px;
+        margin: 50px 0 0 -30px;
+    }
+    section{
+        max-width: 750px;
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 650px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .picture{
+        max-width: 210px;
+        max-height: 210px;
+    }
+    .description{
+        font-size: 15px;
+        margin: 0;
+    }
+    .more{
+        width: 180px;
+        height: 40px;
+    }
+    .more a{
+        padding: 9px 33px;
+    }
+     /*footer--------------------------------------------*/
+     .contakt p{
+        font-size: 16px;
+    }
+    .end p{
+        font-size: 14px;
+    }
+    .online{
+        width: 100px;
+    }
+    .online img{
+        width: 40px;
+    }
+    /*page------------------------------------------*/
+    .BG{
+        width: 850px;
+    }
+    h4{
+        font-size: 30px;
+    }
+    .BG-page1{
+        min-height: 575px;
+    }
+    .BG-page2{
+        min-height: 730px;
+    }
+    .BG-page3{
+        min-height: 680px;
+    }
+    .BG-page4{
+        min-height: 690px;
+    }
+    .BG-page5{
+        min-height: 590px;
+    }
+    .sale__wrap{
+        width: 850px;
+    }
+    .sale__colection{
+        width: 90px;
+    }
+    .big-foto2 {
+        width: 280px;
+    }
+    .title{
+        font-size: 20px;
+    }
+    .available-1, .available-2{
+        font-size: 18px;
+    }
+    .sale__info{
+        width: 480px;
+    }
+    .full-description{
+        font-size: 14px;
+    }
+    .sale__bottom{
+        width: 850px;
+    }
+    .sale__save {
+        padding-left: 100px;
+    }
+    .sale__save p{
+        font-size: 12px;
+    }
+    .sale__text{
+        font-size: 18px;
+        margin-top: 0;
+    }
+    .sale__group img{
+        width: 125px;
+        height: 85px;
+    }
+
+    /*modal-------------------------------------------*/
+    .content {
+        max-width: 520px;
+    }
+    .modal-header img{
+        width: 89%;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    .page{
+        max-width: 650px;
+    }
+     /*header-----------------------------------------*/
+     .logo img{
+        max-width: 80px;
+        max-height: 80px;
+    }
+    h1{
+        font-size: 35px;
+        margin: -20px 0 0 0;
+    }
+    h2{
+        margin: -20px 5px 30px 0;
+        font-size: 8px;
+    }
+    
+    .clik a{
+        font-size: 10px;
+    }
+    /*nav-------------------------------------------*/
+    .menu li{
+        margin: 0 4px;
+    }
+    .menu a{
+        font-size: 14px;
+    }
+    .sale__cart img {
+    margin-left: 20px;
+    width: 35px;
+    height: 35px;
+    }
+    /*main-------------------------------------------*/
+    .main{
+        width: 600px;
+        margin: 0;
+    }
+    .gitara img{
+        max-width: 200px;
+    }
+    section{
+        max-width: 500px;
+        margin: 0 -30px 0 -40px
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 500px;
+        flex-direction: column;
+    }
+    h3{
+        font-size: 22px;
+    }
+    .picture{
+        max-width: 200px;
+        max-height: 200px;
+    }
+    .pic{
+        justify-content: end;
+        margin-right: 20px;
+    }
+    .description{
+        font-size: 15px;
+        width: 450px;
+    }
+    .more{
+        width: 180px;
+        height: 40px;
+    }
+    .more a{
+        padding: 9px 33px;
+    }
+     /*footer--------------------------------------------*/
+     .contakt p{
+        font-size: 14px;
+    }
+    .end p{
+        font-size: 12px;
+    }
+    .online{
+        width: 90px;
+        height: 35px;
+    }
+    .online img{
+        width: 30px;
+        margin-top: 1px;
+    }
+
+     /*page------------------------------------------*/
+     .BG{
+        width: 650px;
+    }
+    h4{
+        font-size: 25px;
+    }
+    .BG-page1{
+        min-height: 575px;
+    }
+    .BG-page2{
+        min-height: 575px;
+    }
+    .BG-page3{
+        min-height: 595px;
+    }
+    .BG-page4{
+        min-height: 575px;
+    }
+    .BG-page5{
+        min-height: 575px;
+    }
+    .sale__wrap{
+        width: 650px;
+    }
+    .sale__colection{
+        width: 70px;
+    }
+    .big-foto2 {
+        width: 200px;
+    }
+    .title{
+        font-size: 18px;
+    }
+    .available-1, .available-2{
+        font-size: 15px;
+    }
+    .sale__info{
+        width: 430px;
+    }
+    .full-description{
+        font-size: 13px;
+    }
+    .sale__price{
+        margin-top: 0;
+    }
+    .sale__bottom{
+        width: 650px;
+    }
+    .sale__save {
+        padding-left: 90px;
+    }
+    .sale__save p{
+        font-size: 12px;
+    }
+    .sale__text{
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .sale__group img{
+        width: 100px;
+        height: 65px;
+    }
+
+    /*modal-------------------------------------------*/
+    .content {
+        max-width: 380px;
+    }
+    .modal-header img{
+        width: 87%;
+    }
+    .close{
+        font-size: 45px;	
+    }
+}
+@media screen and (max-width: 576px){
+    .page{
+        max-width: 500px;
+    }
+     /*header-----------------------------------------*/
+     .logo img{
+        max-width: 80px;
+        max-height: 80px;
+    }
+    h1{
+        font-size: 35px;
+        margin: -20px 0 0 0;
+    }
+    h2{
+        margin: -20px 5px 30px 0;
+        font-size: 8px;
+    }
+    
+    .clik a{
+        font-size: 10px;
+    }
+    /*nav-------------------------------------------*/
+    .nav{
+        margin-top: -40px;
+    }
+    .menu li{
+        margin: 0 2px;
+    }
+    .menu a{
+        font-size: 10px;
+    }
+    .sale__cart img {
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+    }
+    /*main-------------------------------------------*/
+    .main{
+        width: 500px;
+    }
+    .gitara img{
+        max-width: 150px;
+        margin: 50px 0 0 -10px;
+    }
+    section{
+        max-width: 400px;
+        margin: 0 -30px 0 -30px;
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 400px;
+        flex-direction: column;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .picture{
+        max-width: 170px;
+        max-height: 170px;
+    }
+    .pic{
+        justify-content: center;
+    }
+    .description{
+        font-size: 13px;
+        width: 350px;
+    }
+    .more{
+        width: 150px;
+        height: 30px;
+    }
+    .more a{
+        padding: 9px 20px;
+    }
+    .up-menu{
+        margin-top: 10px;
+    }
+     /*footer--------------------------------------------*/
+     .contakt p{
+        font-size: 9px;
+        padding: 0 15px;
+    }
+    .end p{
+        font-size: 8px;
+    }
+    .online{
+        width: 80px;
+        height: 27px;
+    }
+    .online img{
+        width: 25px;
+    }
+
+     /*page------------------------------------------*/
+     .BG{
+        width: 500px;
+    }
+    h4{
+        font-size: 22px;
+    }
+    .BG-page1{
+        min-height: 620px;
+    }
+    .BG-page2{
+        min-height: 650px;
+    }
+    .BG-page3{
+        min-height: 710px;
+    }
+    .BG-page4{
+        min-height: 710px;
+    }
+    .BG-page5{
+        min-height: 575px;
+    }
+    .sale__wrap{
+        width: 500px;
+    }
+    .sale__colection{
+        width: 70px;
+    }
+    .big-foto2 {
+        width: 200px;
+    }
+    .title{
+        font-size: 18px;
+    }
+    .available-1, .available-2{
+        font-size: 15px;
+    }
+    .sale__info{
+        width: 430px;
+    }
+    .full-description{
+        font-size: 13px;
+    }
+    .sale__price{
+        margin-top: 0;
+    }
+    .sale__bottom{
+        width: 500px;
+    }
+    .sale__save {
+        padding-left: 90px;
+    }
+    .sale__save p{
+        font-size: 12px;
+    }
+    .sale__text{
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .sale__group img{
+        width: 100px;
+        height: 65px;
+    }
+
+     /*modal-------------------------------------------*/
+     .content {
+        max-width: 330px;
+    }
+    .modal-header img{
+        width: 86%;
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    .page{
+        max-width: 400px;
+    }
+     /*header-----------------------------------------*/
+     .logo img{
+        max-width: 60px;
+        max-height: 60px;
+    }
+    h1{
+        font-size: 30px;
+        margin: -20px 0 0 0;
+    }
+    h2{
+        margin: -20px 0 30px 0;
+        font-size: 7px;
+    }
+    
+    .clik a{
+        font-size: 8px;
+    }
+    /*nav-------------------------------------------*/
+    .nav{
+        margin-top: -40px;
+    }
+    .menu li{
+        margin: 0 1px;
+    }
+    .menu a{
+        font-size: 8px;
+    }
+    .sale__cart img {
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    }
+    /*main-------------------------------------------*/
+    .main{
+        width: 400px;
+    }
+    .gitara img{
+        max-width: 100px;
+        margin: 30px 0 0 -10px;
+    }
+    section{
+        max-width: 350px;
+        margin: 0 -10px 0 -20px;
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 350px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    .picture{
+        max-width: 150px;
+        max-height: 150px;
+    }
+    .description{
+        font-size: 10px;
+        width: 270px;
+    }
+    .more{
+        width: 100px;
+        height: 30px;
+    }
+    .more a{
+        padding: 9px 10px;
+        font-size: 12px;
+    }
+    .up-menu{
+        margin-top: 10px;
+        font-size: 10px;
+    }
+     /*footer--------------------------------------------*/
+     .contakt p{
+        padding: 0 5px;
+    }
+    .online{
+        width: 70px;
+        height: 24px;
+    }
+    .online img{
+        width: 22px;
+    }
+
+     /*page------------------------------------------*/
+     .BG{
+        width: 400px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .BG-page1{
+        min-height: 840px;
+    }
+    .BG-page2{
+        min-height: 930px;
+    }
+    .BG-page3{
+        min-height: 1020px;
+    }
+    .BG-page4{
+        min-height: 1030px;
+    }
+    .BG-page5{
+        min-height: 870px;
+    }
+    .sale__wrap{
+        width: 400px;
+    }
+    .sale__big{
+        flex-direction: column;
+    }
+    .sale__colection{
+        width: 70px;
+    }
+    .big-foto2 {
+        width: 220px;
+    }
+    .title{
+        font-size: 18px;
+    }
+    .available-1, .available-2{
+        font-size: 15px;
+        margin-top: -150px;
+    }
+    .sale__info{
+        width: 320px;
+    }
+    .full-description{
+        font-size: 13px;
+    }
+    .sale__price{
+        margin-top: 0;
+    }
+    .sale__bottom{
+        width: 400px;
+    }
+    .sale__save {
+        /* padding-left: 0px; */
+        padding: 0 15px;
+    }
+    .sale__save p{
+        font-size: 12px;
+    }
+    .sale__text{
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .sale__group img{
+        width: 100px;
+        height: 65px;
+    }
+
+     /*modal-------------------------------------------*/
+     .content {
+        max-width: 350px;
+    }
+    .modal-header img{
+        width: 86%;
+    }
+}
+
+
+@media screen and (max-width: 320px){
+    .page{
+        max-width: 300px;
+    }
+     /*header-----------------------------------------*/
+     .logo img{
+        max-width: 40px;
+        max-height: 40px;
+    }
+    h1{
+        font-size: 20px;
+        margin: -20px 10px 0 0;
+    }
+    h2{
+        margin: -10px 10px 30px 0;
+        font-size: 5px;
+    }
+    
+    /*nav-------------------------------------------*/
+    .nav{
+        margin-top: -40px;
+    }
+    .menu li{
+        margin: 0 1px;
+    }
+    .menu a{
+        font-size: 8px;
+    }
+    .sale__cart img {
+    margin-left: 10px;
+    width: 25px;
+    height: 25px;
+    }
+    /*main-------------------------------------------*/
+    .main{
+        width: 300px;
+    }
+    .gitara img{
+        max-width: 70px;
+        margin: 30px 0 0 0;
+    }
+    section{
+        max-width: 250px;
+        margin: 0 -10px 0 -20px;
+    }
+    #box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+        width: 250px;
+    }
+    h3{
+        font-size: 12px;
+    }
+    .picture{
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .description{
+        width: 220px;
+    }
+    .more{
+        width: 80px;
+        height: 25px;
+    }
+    .more a{
+        padding: 7px 5px;
+        font-size: 10px;
+    }
+    .up-menu{
+        margin-top: 10px;
+        font-size: 8px;
+    }
+     /*footer--------------------------------------------*/
+     .contakt p{
+        font-size: 7px;
+        padding: 0 5px;
+    }
+    .end p{
+        font-size: 5px;
+        padding: 0 20px;
+    }
+    .online{
+        width: 50px;
+        height: 20px;
+        margin: 0;
+    }
+    .online img{
+        width: 18px;
+    }
+
+      /*page------------------------------------------*/
+      .BG{
+        width: 270px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    .back a{
+        font-size: 14px;
+    }
+    .BG-page1{
+        min-height: 870px;
+    }
+    .BG-page2{
+        min-height: 960px;
+    }
+    .BG-page3{
+        min-height: 1070px;
+    }
+    .BG-page4{
+        min-height: 1035px;
+    }
+    .BG-page5{
+        min-height: 885px;
+    }
+    .sale__wrap{
+        width: 270px;
+    }
+    .sale__big{
+        flex-direction: column;
+    }
+    .sale__colection{
+        width: 60px;
+    }
+    .big-foto2 {
+        width: 170px;
+    }
+    .title-name{
+        display: inline-block;
+    }
+    .title{
+        font-size: 15px;
+    }
+    .available-1, .available-2{
+        font-size: 15px;
+    }
+    .sale__info{
+        width: 210px;
+    }
+    .full-description{
+        font-size: 12px;
+    }
+    .sale__price{
+        margin-top: 0;
+    }
+    .sale__bottom{
+        width: 270px;
+    }
+    .sale__save {
+        padding: 0 15px;
+    }
+    .sale__save p{
+        font-size: 10px;
+    }
+    .sale__text{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .sale__group img{
+        width: 90px;
+        height: 60px;
+    }
+
+     /*modal-------------------------------------------*/
+     .content {
+        max-width: 250px;
+    }
+    .modal-header img{
+        width: 84%;
+    }
+    .close{
+        font-size: 35px;	
+    }
+}
