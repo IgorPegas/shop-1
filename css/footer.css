@@ -22,10 +22,6 @@
     border-radius: 5px;
     text-align: center;
 }
-/* .online img{
-    width: 50px;
-} */
-
 .online:hover{
     background-color: rgb(199, 197, 197);
     cursor: pointer;
