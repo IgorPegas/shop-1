@@ -103,4 +103,6 @@ hr{
     background-color: #504e4c;
     border: none;
 }
-
+.pic-out{
+    filter: blur(70px);
+}
