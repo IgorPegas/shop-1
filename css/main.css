@@ -1,0 +1,108 @@
+
+.main{
+    margin: 10px 0;
+}
+.middle{
+    display: flex;
+    width: auto;
+}
+.gitara img{
+    max-width: 300px;
+    opacity: 30%;
+    margin: 50px 0 0 -70px;
+}
+section{
+    overflow: auto;
+    margin: 0 -30px 0 0;
+    width: 100%;
+    max-width: 1000px;
+    height: 600px;
+    overflow-y: scroll;
+    display: inline-block;
+    scroll-behavior: smooth;
+}
+h3{
+    color: beige;
+    font-size: 25px;
+    justify-content: start;
+}
+#box-1, #box-2, #box-3, #box-4, #box-5, #box-6, #box-7{
+    display: flex;
+    flex-direction: row;
+}
+
+.description{
+    color: rgb(129, 129, 129);
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.up-menu{
+    background-color: rgba(97, 95, 95, 0.747);
+    color: black;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    float: right;
+    margin-right: 30px;
+}
+.up-menu:hover{
+    background-color: rgba(204, 202, 202, 0.747);
+    color: #fff ;
+    cursor: pointer;
+}
+
+.pic{
+    display: flex;
+}
+.picture{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 10px;
+    margin: 30px 10px;
+}
+.more{
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 2px;
+    background-color: aqua;
+}
+.more-1{
+    margin-top: 45px;
+}
+.more-2{
+    margin-top: 20px;
+}
+.more-3{
+    margin-top: 40px;
+}
+.more-4{
+    margin-top: 60px;
+}
+.more-5{
+    margin-top: 40px;
+}
+.more a{
+    font-weight: 700;
+    color: black;
+    font-size: 18px;
+    padding: 13px 40px
+}
+.more:hover{
+    background-color: rgb(2, 102, 102);
+    box-shadow: 0 0 5px 1px #fff;
+}
+.more a:hover{
+    color: #fff ;
+    cursor: pointer;
+}
+hr{
+    width: 80%;
+    height: 2px;
+    background-color: #504e4c;
+    border: none;
+}
+.out{
+    filter: blur(70px);
+}
