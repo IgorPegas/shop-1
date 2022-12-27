@@ -1,0 +1,20 @@
+
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.menu li{
+    display: inline-block;
+    margin: 0 15px;
+}
+.menu a{
+    color: rgb(77, 201, 250);
+    font-size: 20px;
+}
+.menu a:hover{
+    color: aquamarine;
+    cursor: pointer;
+}
+/* .sale__cart li{
+    margin-left: 50px;
+} */
