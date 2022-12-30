@@ -15,4 +15,7 @@
     color: aquamarine;
     cursor: pointer;
 }
+.buy{
+    display: none;
+}
 
