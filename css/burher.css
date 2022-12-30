@@ -36,7 +36,7 @@
         animation: show .5s ease;
     }
     #burger:checked +[for=burger]::before{
-        content: 'X';
+        content: 'свернуть';
     }
 }
 
