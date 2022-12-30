@@ -144,6 +144,19 @@ h4{
     margin-top: 40px;
     /* visibility: hidden; */
 }
+.sale__buy{
+    background-color: #fff;
+    width: 100px;
+    height: 32px;
+    text-align: center;
+    color: #6e6d6d;
+    font-size: 25px;
+    border-radius: 5px;
+}
+.sale__buy:hover{
+    color: #fff;
+    background-color: #6e6d6d;
+}
 .sale__cart img{
     margin-left: 50px;
     width: 50px;
