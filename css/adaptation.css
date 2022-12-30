@@ -776,10 +776,11 @@
     .menu a{
         font-size: 8px;
     }
-    .sale__cart img {
-    margin-left: 10px;
-    width: 25px;
-    height: 25px;
+    .sale__cart img{
+        display: none;
+    }
+    .buy{
+        display: block;
     }
     /*main-------------------------------------------*/
     .main{
@@ -938,11 +939,7 @@
     .menu a{
         font-size: 8px;
     }
-    .sale__cart img {
-    margin-left: 10px;
-    width: 25px;
-    height: 25px;
-    }
+    
     /*main-------------------------------------------*/
     .main{
         width: 300px;
