@@ -1,4 +1,5 @@
 
+
 @media screen and (max-width: 1200px){
     .page{
         max-width: 1000px;
@@ -120,11 +121,13 @@
     }
 
     /*modal-------------------------------------------*/
-    .content {
-        max-width: 600px;
+    .open-foto img{
+        width: 470px;
     }
-    .modal-header img{
-        width: 91%;
+    .close-foto{
+        right: -5px;
+        font-size: 40px;
+        width: 45px;
     }
 }
 
@@ -263,11 +266,13 @@
     }
 
     /*modal-------------------------------------------*/
-    .content {
-        max-width: 550px;
+    .open-foto img{
+        width: 430px;
     }
-    .modal-header img{
-        width: 90%;
+    .close-foto{
+        right: 15px;
+        font-size: 40px;
+        width: 45px;
     }
 }
 
@@ -408,16 +413,18 @@
     }
 
     /*modal-------------------------------------------*/
-    .content {
-        max-width: 520px;
+    .open-foto img{
+        width: 400px;
     }
-    .modal-header img{
-        width: 89%;
+    .close-foto{
+        right: 30px;
+        font-size: 35px;
+        width: 40px;
     }
 }
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 840px){
     .page{
         max-width: 650px;
     }
@@ -569,17 +576,16 @@
     }
 
     /*modal-------------------------------------------*/
-    .content {
-        max-width: 380px;
+    .open-foto img{
+        width: 350px;
     }
-    .modal-header img{
-        width: 87%;
-    }
-    .close{
-        font-size: 45px;	
+    .close-foto{
+        right: 60px;
+        font-size: 30px;
+        width: 35px;
     }
 }
-@media screen and (max-width: 576px){
+@media screen and (max-width: 680px){
     .page{
         max-width: 500px;
     }
@@ -736,16 +742,21 @@
     }
 
      /*modal-------------------------------------------*/
-     .content {
-        max-width: 330px;
+     .open-foto{
+        margin-top: 10px;
     }
-    .modal-header img{
-        width: 86%;
+     .open-foto img{
+        width: 300px;
+    }
+    .close-foto{
+        right: 85px;
+        font-size: 25px;
+        width: 30px;
     }
 }
 
 
-@media screen and (max-width: 480px){
+@media screen and (max-width: 560px){
     .page{
         max-width: 400px;
     }
@@ -782,6 +793,7 @@
     .buy{
         display: block;
     }
+   
     /*main-------------------------------------------*/
     .main{
         width: 400px;
@@ -902,16 +914,16 @@
     }
 
      /*modal-------------------------------------------*/
-     .content {
-        max-width: 350px;
+     .open-foto img{
+        width: 250px;
     }
-    .modal-header img{
-        width: 86%;
+    .close-foto{
+        right: 110px;
     }
 }
 
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 480px){
     .page{
         max-width: 300px;
     }
@@ -939,7 +951,7 @@
     .menu a{
         font-size: 8px;
     }
-    
+   
     /*main-------------------------------------------*/
     .main{
         width: 300px;
@@ -1069,13 +1081,29 @@
     }
 
      /*modal-------------------------------------------*/
-     .content {
-        max-width: 250px;
+     .open-foto{
+        margin-top: 5px;
     }
-    .modal-header img{
-        width: 84%;
+     .open-foto img{
+        width: 200px;
     }
-    .close{
-        font-size: 35px;	
+    .close-foto{
+        right: 140px;
+        font-size: 20px;
+        width: 25px;
     }
+}
+
+@media screen and (max-width: 360px){
+
+     /*modal-------------------------------------------*/
+     .open-foto{
+        position: absolute;
+        top: 5px;
+        right: -95px;
+    }
+     .open-foto img{
+        width: 200px;
+    }
+    
 }
