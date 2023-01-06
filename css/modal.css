@@ -1,63 +1,36 @@
-
-.modal{
-	opacity: 0;
-	visibility: hidden;
-	transition: all .2s;
+/*popup-foto*/
+.open-wrap{
+	background-color: rgba(59, 58, 58, 0.637);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 100;
+    visibility: hidden;
 }
-.modal:target {
-	opacity: 1;
-	visibility: visible;
+.open-wrap:target{
+    visibility: visible;
 }
-
-.modal:target .content {
-	transform: translate(0, 50px);
+.open-foto{
+	text-align: center;
+    margin-top: 20px;
 }
-
-.overlay {
-	position: absolute;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	background-color: rgba(0,0,0,.5);
-}
-.content {
-	max-width: 650px;
-	margin: auto;
+.fix{
 	position: relative;
-	transform: translate(0, -250px);
-	transition: all .5s;
+	width: 500px;
+	margin: 0 auto;
 }
-.modal-header img{
-	width: 90%;
+.open-foto img{
+	width: 500px;
+    border-radius: 5px;
 }
-.close{
-	background-color: #00e4e4;
-}
-.close{
+.close-foto{
 	position: absolute;
-	top: 5px;
-	right: 10px;
-	font-size: 30px;
-	text-decoration: none;
+	top: 10px;
+	right: -25px;
+	background-color: #43aa06;
+	border-radius: 3px;
+	color: red;
 	font-size: 50px;
-	color: #010e61;	
-}
-.close-form{
-	position: absolute;
-	bottom: 25px;
-	right: 10px;
-	font-size: 30px;
-	text-decoration: none;
-	font-size: 70px;
-	color: #010e61;
-	background-color: #00e4e4;
-}
-.close:hover{
-	color: #00e4e4;
-	background-color: #010e61;
-}
-.close-form:hover{
-	color: #00e4e4;
-	background-color: #010e61;
+	width: 55px;
+	box-shadow: -5px 5px 10px #676262;
 }
