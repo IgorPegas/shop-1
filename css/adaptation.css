@@ -1094,19 +1094,6 @@
     }
 }
 
-@media screen and (max-width: 360px){
 
-     /*modal-------------------------------------------*/
-      .open-foto{
-        position: absolute;
-        top: 5px;
-        right: -75px;
-    }
-     .open-foto img{
-        width: 250px;
-    }
-    .close-foto{
-        right: 115px;
-    }
     
 }
